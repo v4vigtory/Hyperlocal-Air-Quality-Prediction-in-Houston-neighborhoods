@@ -1,5 +1,5 @@
 # Hyperlocal Air Quality Prediction in Houston neighborhoods
-Motivation and Brief Summary
+## Motivation and Brief Summary
 Between 2017 and 2018, The Environmental Defense Fund (EDF) partnered with Google Earth Outreach to map air pollution at the hyperlocal level. In various cities around the world, mobile air quality sensors were used to gather air pollution data at street level, showing how air pollution varies over very short distances. One of those cities was Houston, where low-cost sensors were outfitted on city fleet vehicles, Google Street View cars, and stationary locations. 
 
 Given this unique data source, we were motivated to focus our project on air quality prediction in Houston. For simplicity, and on the basis of data availability, we decided to focus on data for just one pollutant: NO2. Unlike ozone and particle pollution, which can be of concern over large regions, NO2 levels are appreciably higher in close proximity to pollution sources (e.g., vehicles on major freeways, factories)[ref] – hence we felt it was an important pollutant to analyze.
