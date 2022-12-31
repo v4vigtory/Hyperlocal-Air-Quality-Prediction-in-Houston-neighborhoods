@@ -13,4 +13,4 @@ Our target variable, hyperlocal NO2 pollution levels, comes from the EDF Houston
 The 'cleaning' directory consists of the notebooks that carry out data manipulation on the indvidiaul data sources in order to prep them for combining into a single dataset at the modeling stage.
 
 The 'models' directory consists of: \n
-*baseline.ipynb* - Consists of code for the simple OLS baseline model
+* baseline.ipynb - Consists of code for the simple OLS baseline model
