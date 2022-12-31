@@ -12,5 +12,10 @@ Our target variable, hyperlocal NO2 pollution levels, comes from the EDF Houston
 ## Notebooks Structure
 The 'cleaning' directory consists of the notebooks that carry out data manipulation on the indvidiaul data sources in order to prep them for combining into a single dataset at the modeling stage.
 
-The 'models' directory consists of: \n
+The 'models' directory consists of:
 * baseline.ipynb - Consists of code for the simple OLS baseline model
+* standard_models.ipynb - Consists of code for the Lasso, Ridge, Random Forest, XGBoost and PCA models.
+* DL_model.ipynb - Consists of code for the Deep Learning model developed using PyTorch
+
+## Final Report and Presentation
+The overall analysis and results of this project are documented in (https://mail.google.com/mail/u/0/?tab=rm#search/carolyn/FMfcgzGpGKTsggtPnpSLqXJcDfFMRXfg "ML_Project.pdf").
