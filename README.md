@@ -10,7 +10,7 @@ In particular, we undertook to develop machine learning models that could learn 
 Our target variable, hyperlocal NO2 pollution levels, comes from the EDF Houston air quality dataset available for download through the OpenAQ portal. NO2 levels were collected over nine months in certain designated areas in Houston. The result is a dataset with average NO2 readings in ppm, latitude, and longitude for 11,534 precise locations around the city. Traffic data was acquired from the Overpass API from Open Street Maps, emissions data using NEI's data for point sources and the Daymet API to collect meteorological data.
 
 ## Notebooks Structure
-The 'cleaning' directory consists of the notebooks that carry out data manipulation on the indvidiaul data sources in order to prep them for combining into a single dataset at the modeling stage.
+The 'cleaning' directory consists of the notebooks that carry out data manipulation on the individual data sources in order to prep them for combining into a single dataset at the modeling stage.
 
 The 'models' directory consists of:
 * baseline.ipynb - Consists of code for the simple OLS baseline model
@@ -18,4 +18,4 @@ The 'models' directory consists of:
 * DL_model.ipynb - Consists of code for the Deep Learning model developed using PyTorch
 
 ## Final Report and Presentation
-The overall analysis and results of this project are documented in the [final report](http://www.google.fr/ "final_report").
+The overall analysis and results of this project are documented in the [final report](http://www.google.fr/ "final_report"). The presentation used to communicate the same can be found [here](http://www.google.fr/ "final_presentation").
