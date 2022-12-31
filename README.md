@@ -18,4 +18,4 @@ The 'models' directory consists of:
 * DL_model.ipynb - Consists of code for the Deep Learning model developed using PyTorch
 
 ## Final Report and Presentation
-The overall analysis and results of this project are documented in the [Named link](http://www.google.fr/ "final_report").
+The overall analysis and results of this project are documented in the [final report](http://www.google.fr/ "final_report").
