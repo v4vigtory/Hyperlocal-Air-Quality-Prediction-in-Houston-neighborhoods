@@ -19,4 +19,4 @@ The 'models' directory consists of:
 * DL_model.ipynb - Consists of code for the Deep Learning model developed using PyTorch
 
 ## Final Report and Presentation
-The overall analysis and results of this project are documented in the [final report](http://www.google.fr/ "final_report"). The presentation used to communicate the same can be found [here](http://www.google.fr/ "final_presentation").
+The overall analysis and results of this project are documented in the [final report](http://www.google.fr/ "final_report"). The presentation used to communicate the same can be found [here](https://github.com/vjoseph21/air-quality-prediction/blob/main/Presentation.pdf "final_presentation").
