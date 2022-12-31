@@ -1,9 +1,4 @@
 # Hyperlocal Air Quality Prediction in Houston neighborhoods
-Team members:
-* Kaveri Chhikara
-* Vignesh Venkatachalam
-* Carolyn Vilter
-* Vishal Vincent Joseph
 
 ## Motivation and Brief Summary
 Between 2017 and 2018, The Environmental Defense Fund (EDF) partnered with Google Earth Outreach to map air pollution at the hyperlocal level. In various cities around the world, mobile air quality sensors were used to gather air pollution data at street level, showing how air pollution varies over very short distances. One of those cities was Houston, where low-cost sensors were outfitted on city fleet vehicles, Google Street View cars, and stationary locations. 
